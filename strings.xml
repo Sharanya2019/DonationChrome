@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">pgm2</string>
+    <string name="title_activity_basicintent">basicintent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="don_what">pgm4</string>
+    <string-array name="don_what1">
+        <item>Select</item>
+        <item>Food</item>
+        <item>Money</item>
+        <item>Clothes</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="don_what2">
+        <item>Select</item>
+        <item>Food</item>
+        <item>Money</item>
+        <item>Clothes</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="don_what3">
+        <item>Select</item>
+        <item>Food</item>
+        <item>Money</item>
+        <item>Clothes</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="don_what4">
+        <item>Select</item>
+        <item>Food</item>
+        <item>Money</item>
+        <item>Clothes</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="time">
+        <item>Select</item>
+        <item>8:00A.M to 9:00A.M</item>
+        <item>9:00A.M to 10:00A.M</item>
+        <item>10:00A.M to 11:00A.M</item>
+        <item>11:00A.M to 12:00P.M</item>
+        <item>2:00P.M to 3:00P.M</item>
+        <item>3:00A.M to 4:00A.M</item>
+        <item>4:00A.M to 5:00A.M</item>
+        <item>5:00A.M to 6:00A.M</item>
+        <item>6:00A.M to 7:00A.M</item>
+    </string-array>
+</resources>
