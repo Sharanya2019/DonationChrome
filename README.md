@@ -8,8 +8,8 @@
 <b>Output</b></br></br>
 <img src="output.jpeg" width="500" height="400">
 </br></br>
-<b>Team-XTRACTOR:-
-Team members</b></br></br>
+<b>Team-XTRACTOR:
+Team members:-</b></br></br>
 <img src="participants.jpeg" width="500" height="400">
 
 
