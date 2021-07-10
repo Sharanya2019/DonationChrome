@@ -8,6 +8,7 @@
 <b>Output</b></br>
 <img src="output.jpeg" width="500" height="400">
 </br></br>
+Team-XTRACTOR</br>
 <b>Participants</b></br>
 <img src="participants.jpeg" width="500" height="400">
 
