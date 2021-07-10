@@ -5,11 +5,11 @@
 -After selecting the type of selection(item), they can enter the address and book a time slot.
 -Simple and easy to use with interactive gui. </br>
 -Can also be used for post disaster management.</br></br>
-<b>Output</b></br>
+<b>Output</b></br></br>
 <img src="output.jpeg" width="500" height="400">
 </br></br>
-Team-XTRACTOR</br>
-<b>Participants</b></br>
+<b>Team-XTRACTOR:-
+Team members</b></br></br>
 <img src="participants.jpeg" width="500" height="400">
 
 
