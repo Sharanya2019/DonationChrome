@@ -6,9 +6,9 @@
 -Simple and easy to use with interactive gui. </br>
 -Can also be used for post disaster management.</br></br>
 <b>Output</b></br>
-<img src="output.jpeg" width="300" height="400">
+<img src="output.jpeg" width="500" height="400">
 </br></br>
 <b>Participants</b></br>
-<img src="participants.jpeg" width="300" height="400">
+<img src="participants.jpeg" width="500" height="400">
 
 
